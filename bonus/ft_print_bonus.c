@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_printsome.c                                     :+:      :+:    :+:   */
+/*   ft_print_bonus.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sel-kelk <sel-kelk@student.42.fr>          +#+  +:+       +#+        */
+/*   By: sel-kelk <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/11/02 16:51:31 by sel-kelk          #+#    #+#             */
-/*   Updated: 2026/11/02 17:03:47 by sel-kelk         ###   ########.fr       */
+/*   Created: 2026/11/05 11:55:08 by sel-kelk          #+#    #+#             */
+/*   Updated: 2026/11/05 11:55:13 by sel-kelk         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "ft_printf_bonus.h"
 
 void	ft_putchar(char c, int *count)
 {
